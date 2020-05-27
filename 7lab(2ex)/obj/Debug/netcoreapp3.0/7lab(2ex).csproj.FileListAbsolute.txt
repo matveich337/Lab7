@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\bin\Debug\netcoreapp3.0\7lab(2ex).exe
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\bin\Debug\netcoreapp3.0\7lab(2ex).deps.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\bin\Debug\netcoreapp3.0\7lab(2ex).runtimeconfig.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\bin\Debug\netcoreapp3.0\7lab(2ex).runtimeconfig.dev.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\bin\Debug\netcoreapp3.0\7lab(2ex).dll
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\bin\Debug\netcoreapp3.0\7lab(2ex).pdb
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\obj\Debug\netcoreapp3.0\7lab(2ex).csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\obj\Debug\netcoreapp3.0\7lab(2ex).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\obj\Debug\netcoreapp3.0\7lab(2ex).AssemblyInfo.cs
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\obj\Debug\netcoreapp3.0\7lab(2ex).dll
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\7lab(2ex)\obj\Debug\netcoreapp3.0\7lab(2ex).pdb
